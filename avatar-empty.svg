@@ -1,0 +1,8 @@
+<svg width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="132" height="132" fill="#E8EEFF"/>
+<path d="M96.1715 96.1715V88.6287C96.1715 84.6277 94.5821 80.7906 91.753 77.9615C88.9238 75.1324 85.0867 73.543 81.0858 73.543H50.9143C46.9133 73.543 43.0762 75.1324 40.2471 77.9615C37.418 80.7906 35.8286 84.6277 35.8286 88.6287V96.1715" stroke="#C8CCE1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 66.9429C74.3316 66.9429 81.0857 60.1888 81.0857 51.8572C81.0857 43.5256 74.3316 36.7715 66 36.7715C57.6684 36.7715 50.9143 43.5256 50.9143 51.8572C50.9143 60.1888 57.6684 66.9429 66 66.9429Z" stroke="#C8CCE1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<script type="text/javascript">
+    alert("ohHelloHere");
+</script>
+</svg>
